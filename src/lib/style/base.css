@@ -1,0 +1,19 @@
+:root {
+	font-family: 'Atkinson Hyperlegible Next', system-ui, sans-serif;
+}
+* {
+	font-size-adjust: ex-height 0.53;
+	box-sizing: border-box;
+}
+
+h1 {
+	font-weight: 700;
+	line-height: 1.125;
+	margin: 1rem 0;
+}
+h2 {
+	line-height: 1.25;
+}
+h3 {
+	line-height: 1.33;
+}
